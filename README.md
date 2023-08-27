@@ -4,7 +4,7 @@
 **I hope you have some fun with it :)**
 
 > [!NOTE]  
-> only summer and winter are animated yet.
+> only summer and winter are animated yet.\
 > The code need some refactoring...
 
 
